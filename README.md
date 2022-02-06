@@ -1,2 +1,2 @@
-# imformation
+# information
 developed by sakthipriya
